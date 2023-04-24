@@ -17,14 +17,14 @@ body {background-color: #000000;}
     margin-bottom: 7.5px;
 }
 .main h2 {
-    color: #FFFFFF;
+    color: goldenrod;
     font-size: 25px;
     margin-top: none;
     margin-bottom: none;
     text-decoration: underline;
 }
 .main p {
-    color: #FFFFFF;
+    color: goldenrod;
     font-size: 17.5px;
 }
 .main a {
