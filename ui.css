@@ -1,9 +1,9 @@
 * {font-family: monospace;}
-body {background-color: goldenrod;}
+body {background-color: #000000;}
 .main {
     padding: 30px;
     border-radius: 20px;
-    background-color: brown;
+    background-color: #0C0C0C;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -11,20 +11,20 @@ body {background-color: goldenrod;}
     transform: translate(-50%, -50%);
 }
 .main h1 {
-    color: goldenrod;
+    color: #FFFFFF;
     font-size: 30px;
     margin-top: 7.5px;
     margin-bottom: 7.5px;
 }
 .main h2 {
-    color: goldenrod;
+    color: #FFFFFF;
     font-size: 25px;
     margin-top: none;
     margin-bottom: none;
     text-decoration: underline;
 }
 .main p {
-    color: goldenrod;
+    color: #FFFFFF;
     font-size: 17.5px;
 }
 .main a {
@@ -98,7 +98,7 @@ hr {border: solid 1px #FFFFFF;}
 .main-alt {
     padding: 30px;
     border-radius: 20px;
-    background-color: goldenrod;
+    background-color: #000000;
     position: absolute;
     left: 50%;
     text-align: center;
