@@ -11,7 +11,7 @@ body {background-color: #000000;}
     transform: translate(-50%, -50%);
 }
 .main h1 {
-    color: #FFFFFF;
+    color: goldenrod;
     font-size: 30px;
     margin-top: 7.5px;
     margin-bottom: 7.5px;
